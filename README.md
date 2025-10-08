@@ -38,7 +38,9 @@ The project focuses on identifying client behaviors, financial risk distribution
 - Customer Count by Risk Category  
 - Superannuation Savings by Occupation  
 - Credit Card Balance by Age Band  
-- Advisor-wise Loan and Deposit Comparison  
+- Advisor-wise Loan and Deposit Comparison
+
+![Alt ](https://github.com/pranvpv/BankingAnalysis/blob/main/Screenshots/Screenshot%202025-10-08%20160931.png)
 
 ---
 
@@ -46,8 +48,8 @@ The project focuses on identifying client behaviors, financial risk distribution
 - **Tool:** Power BI Desktop  
 - **Data Source:** CSV File  
 - **Skills:** Data Modeling, DAX Measures, Field Parameters, Interactive Visualization, Drill-through Analysis  
-- **Sharing Method:** Power BI Service / Google Drive  
 
+
+  ![Alt ](https://github.com/pranvpv/BankingAnalysis/blob/main/Screenshots/Screenshot%202025-10-08%20161051.png)
 ---
-ink]
 
