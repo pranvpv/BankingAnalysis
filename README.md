@@ -50,6 +50,6 @@ The project focuses on identifying client behaviors, financial risk distribution
 - **Skills:** Data Modeling, DAX Measures, Field Parameters, Interactive Visualization, Drill-through Analysis  
 
 
-  ![Alt ](https://github.com/pranvpv/BankingAnalysis/blob/main/Screenshots/Screenshot%202025-10-08%20161051.png)
+  ![Alt ](https://github.com/pranvpv/BankingAnalysis/blob/main/Screenshots/Screenshot%202025-10-08%20160956.png)
 ---
 
