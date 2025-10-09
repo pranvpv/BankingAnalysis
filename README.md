@@ -40,7 +40,7 @@ The project focuses on identifying client behaviors, financial risk distribution
 - Credit Card Balance by Age Band  
 - Advisor-wise Loan and Deposit Comparison
 
-![Alt ](https://github.com/pranvpv/BankingAnalysis/blob/main/Screenshots/Screenshot%202025-10-08%20160931.png)
+![Alt ](https://github.com/pranvpv/BankingAnalysis/blob/main/Screenshots/Screenshot%202025-10-09%20135209.png))
 
 ---
 
@@ -50,6 +50,6 @@ The project focuses on identifying client behaviors, financial risk distribution
 - **Skills:** Data Modeling, DAX Measures, Field Parameters, Interactive Visualization, Drill-through Analysis  
 
 
-  ![Alt ](https://github.com/pranvpv/BankingAnalysis/blob/main/Screenshots/Screenshot%202025-10-08%20160956.png)
+  ![Alt ](https://github.com/pranvpv/BankingAnalysis/blob/main/Screenshots/Screenshot%202025-10-09%20135148.png)
 ---
 
